@@ -1,0 +1,9 @@
+# Terminologia Flexbox
+
+1. Flex Container
+2. Flex items ( hijos directos del flex Container, tanto los pseudoelementos como los textos )
+3. Flex lines (cada linea es independiente)
+4. Axis (base de Flexbox) MainAxis CrossAxis
+    4.1 MainAxis, mainStart, mainEnd
+    4.2 CrossAxis, crossStart, crossEnd
+
